@@ -7,6 +7,8 @@ code/datasets/mnist/t10k-images-idx3-ubyte
 code/datasets/mnist/t10k-labels-idx1-ubyte
 code/datasets/mnist/train-images-idx3-ubyte
 code/datasets/mnist/train-labels-idx1-ubyte
+code/ch12/weights/w1.npy
+code/ch12/weights/w2.npy
 
 .ipynb_checkpoints
 .DS_Store
